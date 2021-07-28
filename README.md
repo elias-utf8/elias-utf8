@@ -1,6 +1,6 @@
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 📫 How to reach me : 𝙆𝙪𝙧𝙨𝙆#3945
 
 <!---
