@@ -1,5 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=KursK-sys.KursK-sys" alt="visitor badge"/>
-<h1 align="center">Welcome, I'm KursK</h1>   
+<h1 align="center">Welcome, I'm KursK, french student in cyber-security</h1>   
 
 # Languages
 Python, Java, C#
