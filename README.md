@@ -1,5 +1,5 @@
 # À propos de moi 
-Jeune étudiant français en informatique et en cybersécurité, je suis passionnée par ce domaine depuis très jeune.
+Etudiant français en informatique et en cybersécurité, je suis passionnée par ce domaine depuis très jeune.
 Je partage ici avec vous quelques-uns de mes programmes et projets.
 
 # Compétences
