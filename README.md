@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 # À propos de moi 
 Etudiant en informatique et passionné par ce domaine depuis très jeune, 
 je partage ici quelques-uns de mes programmes et projets.
@@ -9,4 +11,3 @@ je partage ici quelques-uns de mes programmes et projets.
 ---
 [![](https://visitcount.itsvg.in/api?id=KursK-sys&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
