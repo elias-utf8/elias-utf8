@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bienvenue!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=400eb5&height=300&section=header&text=Bienvenue!&fontSize=50)
 
 # À propos de moi 
 Étudiant en seconde année de BTS en informatique et en cybersécurité, je suis passionné par ces domaine depuis très jeune et
