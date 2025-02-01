@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=400eb5&height=150&section=header&text=Bienvenue!&theme=tokyonight)
 <a href="https://github.com/elias-utf8/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elias-utf8&show_icons=true&theme=transparent"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elias-utf8&show_icons=true&theme=transparent&hide_rank=true"/>
 </a>
 <a href="https://github.com/elias-utf8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-utf8&layout=compact&theme=transparent" />
