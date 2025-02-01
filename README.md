@@ -19,9 +19,3 @@ J'utilise tout types de language mais principalement C++ et Python. Je souhaite 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elias-utf8&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
