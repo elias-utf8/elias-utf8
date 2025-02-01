@@ -18,3 +18,4 @@ J'utilise tout types de language mais principalement C++ et Python. Je souhaite 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elias-utf8&icon=2&color=12)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/elias-utf8/elias-utf8/tree/output/github-contribution-grid-snake-dark.svg)
