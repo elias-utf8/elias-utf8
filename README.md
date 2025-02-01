@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bienvenue!&fontSize=90)
 
 # À propos de moi 
-Etudiant en informatique et passionné par ce domaine depuis très jeune, 
+Étudiant en seconde année de BTS en informatique et en cybersécurité, je suis passionné par ces domaine depuis très jeune et
 je partage ici quelques-uns de mes programmes et projets.
 
 # Compétences
