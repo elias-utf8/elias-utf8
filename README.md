@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=400eb5&height=150&section=header&text=Bienvenue!&theme=tokyonight)
 ![header](https://github-readme-stats.vercel.app/api?username=elias-utf8&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-utf8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-utf8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # À propos de moi 
 Étudiant en seconde année de BTS en informatique et en cybersécurité, je suis passionné par ces domaine depuis très jeune et
