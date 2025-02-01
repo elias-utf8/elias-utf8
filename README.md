@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=400eb5&height=150&section=header&text=Bienvenue!&theme=tokyonight)
-![Snake animation](https://raw.githubusercontent.com/{username}/elias-utf8/output/github-contribution-grid-snake-dark.svg)
 <a href="https://github.com/elias-utf8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elias-utf8&show_icons=true&theme=transparent"/>
 </a>
