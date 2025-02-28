@@ -20,11 +20,11 @@ J'utilise tout types de language mais principalement C++ et Python. Je souhaite 
   <h3>Galerie de certifications</h3>
   <table>
     <tr>
-      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/certif_IBM_AI.png" alt="Artificial Intelligence Fundamentals" width="300"/></td>
-      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/I2CS__1_.png" alt="Introduction to cybersecurity" width="300"/></td>
-      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/ENGLISH_IT.png" alt="English for IT" width="300"/></td>
-      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/PYTHON_1.png" alt="Python Essentials 1" width="300"/></td>
-      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/PYTHON_2.png" alt="Python Essentials 2" width="300"/></td>
+      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/certif_IBM_AI.png" alt="Artificial Intelligence Fundamentals" width="200"/></td>
+      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/I2CS__1_.png" alt="Introduction to cybersecurity" width="200"/></td>
+      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/ENGLISH_IT.png" alt="English for IT" width="200"/></td>
+      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/PYTHON_1.png" alt="Python Essentials 1" width="200"/></td>
+      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/PYTHON_2.png" alt="Python Essentials 2" width="200"/></td>
     </tr>
   </table>
 </div>
