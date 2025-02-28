@@ -27,8 +27,9 @@ J'utilise tout types de language mais principalement C++ et Python. Je souhaite 
       <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/PYTHON_2.png" alt="Python Essentials 2" width="200"/></td>
     </tr>
   </table>
-  Voir mon profil [Credly](https://www.credly.com/users/elias-gauthier)
 </div>
+
+Voir mon profil [Credly](https://www.credly.com/users/elias-gauthier.14646423)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elias-utf8&icon=2&color=12)](https://visitcount.itsvg.in)
