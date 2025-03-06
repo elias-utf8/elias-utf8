@@ -27,6 +27,7 @@ J'utilise tout types de language mais principalement C++ et Python. Je souhaite 
       <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/PYTHON_2.png" alt="Python Essentials 2" width="200"/></td>
     </tr>
     <tr>
+      <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/cobol_certif.png" alt="COBOL Programming" width="200"/></td>
       <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/ndg1_essentials.png" alt="Python Essentials 2" width="200"/></td>
       <td><img src="https://github.com/elias-utf8/elias-utf8/blob/main/ndg2_unhatched.png" alt="Python Essentials 2" width="200"/></td>
     </tr>
