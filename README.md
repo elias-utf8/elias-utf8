@@ -5,7 +5,7 @@
   <tr>
     <td>
       <p align="left">
-        I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br>
+        I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br><br>
         Enthusiast of Linux, Python, and C++.<br><br>
         I'm also keen to deepen my knowledge in quantum computing.
       </p>
