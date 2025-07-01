@@ -1,7 +1,7 @@
 <h3 align="left">Hi, I'm Elias — a passionate software development student.</h3>
 
 ###
-<table>
+<table border="0">
   <tr>
     <td>
       <p align="left">
