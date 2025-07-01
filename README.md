@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <strong>What’s in my stack</strong>
+  <strong>What’s in my stack : </strong>
 </div>
 <br>
 <div align="center">
