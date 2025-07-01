@@ -5,7 +5,10 @@
 <p align="left">I'm currently in my 3rd year of a bachelor's degree in technology.<br>Linux, Python and C++ enjoyer.<br><br> I'd like to take a greater interest in quantum computing.</p>
 
 ###
-
+<div align="center">
+  What’s in my stack :
+</div>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
@@ -19,9 +22,6 @@
 </div>
 
 ###
-<div align="center">
-  What’s in my stack :
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -30,5 +30,3 @@
 
 <div align="left">
 </div>
-
-###
