@@ -1,23 +1,27 @@
-<h3 align="left">I'm Elias, a passionate software development student.</h3>
+<h3 align="left">Hi, I'm Elias — a passionate software development student.</h3>
 
 ###
 
-<p align="left">I'm currently in my 3rd year of a bachelor's degree in technology.<br>Linux, Python and C++ enjoyer.<br><br> I'd like to take a greater interest in quantum computing.</p>
+<p align="left">
+  I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br>
+  Enthusiast of Linux, Python, and C++.<br><br>
+  I'm also keen to deepen my knowledge in quantum computing.
+</p>
 
 ###
+
 <div align="center">
-  What’s in my stack :
+  <strong>Tech Stack</strong>
 </div>
 <br>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,qt,sublim,tensorflow)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,linux,py,qt,sublim,tensorflow" alt="My Skills" />
+  </a>
 </div>
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-###
-
-<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="Languages graph" />
 </div>
