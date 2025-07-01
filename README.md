@@ -10,11 +10,9 @@
         I'm also keen to deepen my knowledge in quantum computing.
       </p>
     </td>
-    <center>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="Languages graph" />
     </td>
-    </center>
   </tr>
 </table>
 
