@@ -10,7 +10,8 @@
 </div>
 <br>
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,qt,sublim,tensorflow)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,linux,py,qt,sublim,tensorflow)](https://skillicons.dev)
+</div>
 ###
 
 <div align="center">
