@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <strong>Tech Stack</strong>
+  <strong>What’s in my stack</strong>
 </div>
 <br>
 <div align="center">
