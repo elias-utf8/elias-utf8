@@ -1,12 +1,23 @@
 <h3 align="left">Hi, I'm Elias — a passionate software development student.</h3>
 
 ###
-
-<p align="left">
+<div align="center">
+<div style="display: inline-block">
+  <p align="left">
   I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br>
   Enthusiast of Linux, Python, and C++.<br><br>
   I'm also keen to deepen my knowledge in quantum computing.
-</p>
+  </p>
+</div>
+  <div style="display: inline-block">
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="Languages graph" />
+    </div>
+  </div>
+</div>
+
+
+
 
 ###
 
@@ -22,6 +33,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="Languages graph" />
-</div>
+
