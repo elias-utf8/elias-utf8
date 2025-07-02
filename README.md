@@ -24,7 +24,7 @@
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,linux,py,qt,sublime,tensorflow,tex" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,linux,py,qt,sublime,tensorflow,latex" alt="My Skills" />
   </a>
 </div>
 
