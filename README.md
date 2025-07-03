@@ -19,12 +19,12 @@
 ###
 
 <div align="center">
-  <strong>What’s in my stack</strong>
+  <strong>What’s in my stack : </strong>
 </div>
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,linux,py,qt,sublime,tensorflow" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,linux,py,qt,sublime,tensorflow,latex" alt="My Skills" />
   </a>
 </div>
 
