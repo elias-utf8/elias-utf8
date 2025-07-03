@@ -8,7 +8,7 @@
         I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br><br>
         Enthusiast of Linux, Python, and C++.<br><br>
         I'm also keen to deepen my knowledge in quantum computing.
-        Take a look to my [PGP](https://github.com/elias-utf8/elias-utf8/blob/main/elias.asc) to contact me.
+        Take a look to my <a href="https://github.com/elias-utf8/elias-utf8/blob/main/elias.asc">PGP</a> to contact me.
       </p>
     </td>
     <td width="50%" align="center" valign="middle">
