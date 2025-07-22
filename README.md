@@ -24,9 +24,9 @@
 </div>
 <br>
 <div align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=geany"/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,linux,py,qt,sublime,tensorflow,latex" alt="My Skills"/>
-    <img src="https://skills.syvixor.com/api/icons?i=geany"/>
   </a>
 </div>
 
