@@ -25,7 +25,7 @@
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,ocaml,linux,py,qt,latex" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=cpp,qt,ocaml,linux,py,php" alt="My Skills"/>
   </a>
 </div>
 
