@@ -8,7 +8,7 @@
       <p align="left">
         I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br><br>
         Enthusiast of Linux, Python, and C++, I'm currently learning OCaml.<br><br>
-        I'm also keen to deepen my knowledge in quantum computing.
+        I'm also keen to deepen my knowledge in cybersecurity and quantum computing.
         Take a look to my <a href="https://github.com/elias-utf8/elias-utf8/blob/main/elias.asc">PGP</a> to contact me.<br><br>
           <a align="center" valign="middle" href="https://www.fsf.org/associate/support_freedom?referrer=4652098">
           <img src="https://raw.githubusercontent.com/elias-utf8/elias-utf8/main/fsf.png" alt="FSF Member since October 2025" height="50"/>
