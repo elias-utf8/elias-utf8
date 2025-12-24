@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Elias —  Comp. Sci. student, open source and cybersecurity.</h3>
+<h3 align="left">Hi, I'm Elias —  computer science, open source and cybersecurity.</h3>
 
 ###
 
