@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-utf8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"  />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=elias-utf8&show_icons=true&theme=transparent" height="300" alt="languages graph"  />
     </td>
   </tr>
 </table>
