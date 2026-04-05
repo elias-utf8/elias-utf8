@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,ocaml,linux,py,php" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=cpp,qt,go,ocaml,linux,py,php" alt="My Skills"/>
   </a>
 </div>
 
