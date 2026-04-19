@@ -1,38 +1,11 @@
-<h3 align="left">Hi, I'm Elias —  computer science, open source and cybersecurity.</h3>
+**Hi, I'm Elias.**
 
-###
+Currently studying computer science at the IUT in Bordeaux, France, I have a particular interest in cybersecurity and more specifically cyberdefense.
 
-<table border="0">
-  <tr>
-    <td>
-      <p align="left">
-        I'm currently in my 3rd year of a Bachelor's degree in Technology (BUT Informatique).<br><br>
-        Enthusiast of Linux, Python, and C++, I'm currently learning OCaml.<br><br>
-        I'm also keen to deepen my knowledge in cybersecurity and quantum computing.
-        Take a look to my <a href="https://github.com/elias-utf8/elias-utf8/blob/main/elias.asc">PGP</a> to contact me.<br><br>
-          <a align="center" valign="middle" href="https://www.fsf.org/associate/support_freedom?referrer=4652098">
-          <img src="https://raw.githubusercontent.com/elias-utf8/elias-utf8/main/fsf.png" alt="FSF Member since October 2025" height="50"/>
-          </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=elias-utf8&show_icons=true&theme=transparent" height="300" alt="languages graph"  />
-    </td>
-  </tr>
-</table>
+Take a look to my personal [website](https://eliasgauthier.fr)
 
-###
-
-<div align="center">
-  <strong>What's in my stack : </strong>
-</div>
-
-<br>
-
-<div align="center">
+<div align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,qt,go,ocaml,linux,py,php" alt="My Skills"/>
   </a>
 </div>
-
-###
