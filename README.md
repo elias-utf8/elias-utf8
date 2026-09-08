@@ -1,6 +1,6 @@
 **Hi, I'm Elias.**
 
-Currently studying computer science at the IUT in Bordeaux, France. <br>
+Currently studying cybedefense at ENSIBS, France. <br>
 I have a particular interest in cybersecurity and more specifically cyberdefense.
 
 Take a look to my personal [website](https://eliasgauthier.fr).
